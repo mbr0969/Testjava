@@ -1,5 +1,6 @@
 class Hello
 {
+// класс Hello для теста
 	private String print = "Hello";
 	private int a = 1;
     private int b = 1;
